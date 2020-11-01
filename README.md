@@ -51,9 +51,9 @@ A 27 years old self-taught DevOps & Backend - Frontend developer from Iran.
 ---
 ### 📊 Git & GitHub Stats...
 
-  ![@md-akhi](https://github-readme-stats.vercel.app/api?username=md-akhi&theme=react&show_icons=true&count_private=true)
-  ![@md-akhi](https://github-readme-stats.vercel.app/api/top-langs/?username=md-akhi&layout=compact&theme=react)
-  ![@md-akhi](https://github-readme-stats.vercel.app/api/wakatime?username=md72akhi&theme=react)
+  ![@md-akhi](https://github-readme-stats.vercel.app/api?username=md-akhi&theme=vue&show_icons=true&count_private=true)
+  ![@md-akhi](https://github-readme-stats.vercel.app/api/top-langs/?username=md-akhi&theme=vue&layout=compact&show_icons=true&count_private=true)
+  ![@md-akhi](https://github-readme-stats.vercel.app/api/wakatime?username=md72akhi&theme=vue&show_icons=true&count_private=true)
 
  <!-- ![@md-akhi](https://github-readme-stats.vercel.app/api/pin/?username=md-akhi&repo=SDateTime&cache_seconds=86400&theme=react) -->
  

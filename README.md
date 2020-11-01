@@ -15,7 +15,7 @@ A 27 years old self-taught DevOps & Backend - Frontend developer from Iran.
 
 ---
 ### 📢 Find me
-  [![telegram](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://www.t.me/md_akhi2/)
+  [![telegram](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://www.t.me/md_akhi/)
   [![Instagram](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg)](https://www.instagram.com/md_akhi2/)
   [![Twitter](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg)](https://twitter.com/md72ahki)
   [![LinkedIn](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)](https://www.linkedin.com/in/md-akhi)

@@ -54,10 +54,10 @@ A 27 years old self-taught DevOps & Backend - Frontend developer from Iran.
   <img src="https://github-readme-stats.vercel.app/api?username=md-akhi&theme=vue&show_icons=true&count_private=true" width='50%'/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-akhi&theme=vue&layout=compact&show_icons=true&count_private=true" width='41.75%'/>
 </div>
-<!--  [![@md-akhi](https://github-readme-stats.vercel.app/api?username=md-akhi&theme=vue&show_icons=true&count_private=true)](https://github.com/md-akhi)
-  [![@md-akhi](https://github-readme-stats.vercel.app/api/top-langs/?username=md-akhi&theme=vue&layout=compact&show_icons=true&count_private=true)](https://github.com/md-akhi)-->
- 
-  [![@md-akhi](https://github-readme-stats.vercel.app/api/wakatime?username=md72akhi&theme=vue&show_icons=true&count_private=true)](https://github.com/md-akhi)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=md72akhi&theme=vue&show_icons=true&count_private=true" width='50%'/>
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-akhi&theme=vue&layout=compact&show_icons=true&count_private=true" width='41.75%'/>-->
+</div>
 
  <!-- ![@md-akhi](https://github-readme-stats.vercel.app/api/pin/?username=md-akhi&repo=SDateTime&cache_seconds=86400&theme=react) -->
  

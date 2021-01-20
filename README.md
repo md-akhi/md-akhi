@@ -49,7 +49,7 @@ A 28 years old self-taught DevOps & Backend - Frontend developer from Iran.
 .
 
 ---
-### 📊 Git & GitHub Stats...
+### 📊 GitHub Stats...
 <div align="center"><!-- https://github.com/anuraghazra/github-readme-stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=md-akhi&theme=dark&show_icons=true&count_private=true" width='49%'/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-akhi&theme=dark&layout=compact&show_icons=true&count_private=true" width='41%'/>

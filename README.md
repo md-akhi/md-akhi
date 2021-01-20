@@ -50,9 +50,10 @@ A 27 years old self-taught DevOps & Backend - Frontend developer from Iran.
 
 ---
 ### 📊 Git & GitHub Stats...
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-akhi&theme=vue&show_icons=true&count_private=true" width='50%'/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-akhi&theme=vue&layout=compact&show_icons=true&count_private=true" width='41.75%'/>
+<div align="center"><!-- https://github.com/anuraghazra/github-readme-stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=md-akhi&theme=dark&show_icons=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-akhi&theme=dark&layout=compact&show_icons=true&count_private=true" width='43%'/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=md72akhi&theme=dark&show_icons=true&count_private=true"/> -->
 </div>
  
 <!--

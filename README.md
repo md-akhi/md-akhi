@@ -49,13 +49,15 @@ A 28 years old self-taught DevOps & Backend - Frontend developer from Iran.
 .
 
 ---
-### 📊 GitHub Stats...
+### 📊 Stats...
 <div align="center"><!-- https://github.com/anuraghazra/github-readme-stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=md-akhi&theme=dark&show_icons=true&count_private=true" width='49%'/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-akhi&theme=dark&layout=compact&show_icons=true&count_private=true" width='41%'/>
   <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=md72akhi&theme=dark&show_icons=true&count_private=true"/> -->
 </div>
  
+ [![coderstats](https://coderstats.net/img/coderstats.png)](https://coderstats.net/github/#md-akhi)
+ [![codestats](https://codestats.net/assets/frontend/images/Logo-92e1d93256eae2d7dde539f1df59b06c.svg?vsn=d)](https://codestats.net/users/md-akhi)
 <!--
 **md-akhi/md-akhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

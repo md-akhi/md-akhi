@@ -59,7 +59,7 @@ A 28 years old self-taught DevOps & Backend - Frontend developer from Iran.
  
  [![coderstats](https://coderstats.net/img/coderstats.png)](https://coderstats.net/github/#md-akhi)
   <a href="https://codestats.net/users/md-akhi">
-  <img src="https://codestats.net/assets/frontend/images/Logo-92e1d93256eae2d7dde539f1df59b06c.svg?vsn=d" alt="codestats" width='10%'/></a>
+  <img src="https://codestats.net/assets/frontend/images/Logo-92e1d93256eae2d7dde539f1df59b06c.svg?vsn=d" alt="codestats" width='5%'/></a>
 <!--
 **md-akhi/md-akhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

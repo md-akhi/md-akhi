@@ -73,6 +73,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
+/* ----------------------------------------------------------- */
+		/*  CALCULATE AGE BY YEAR
+		/* ----------------------------------------------------------- */
+		$("#CalAge").append(new Date().getFullYear() - new Date(1993,7,27).getFullYear());

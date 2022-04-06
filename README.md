@@ -19,7 +19,6 @@ A 28 years old self-taught DevOps & Backend - Frontend developer from Iran.
   [![Instagram](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg)](https://www.instagram.com/md_akhi2/)
   [![Twitter](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg)](https://twitter.com/md72ahki)
   [![LinkedIn](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)](https://www.linkedin.com/in/md-akhi)
-  [![gmail](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg)](mailto:md.akhi.ir@gmail.com)
   [![email_me](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg)](mailto:md@akhi.ir)
   
 <!--<p align="center">
@@ -57,9 +56,9 @@ A 28 years old self-taught DevOps & Backend - Frontend developer from Iran.
   <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=md72akhi&theme=dark&show_icons=true&count_private=true"/> -->
 </div>
  
- [![coderstats](https://coderstats.net/img/coderstats.png)](https://coderstats.net/github/#md-akhi)
+<!-- [![codestats](https://codestats.net/assets/frontend/images/Logo-92e1d93256eae2d7dde539f1df59b06c.svg?vsn=d)](https://codestats.net/users/md-akhi)-->
   <a href="https://codestats.net/users/md-akhi">
-  <img src="https://codestats.net/assets/frontend/images/Logo-92e1d93256eae2d7dde539f1df59b06c.svg?vsn=d" alt="codestats" width='5%'/></a>
+  <img src="https://codestats.net/assets/frontend/images/Logo-92e1d93256eae2d7dde539f1df59b06c.svg?vsn=d" alt="codestats" width='10%'/></a>
 <!--
 **md-akhi/md-akhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

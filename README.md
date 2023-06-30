@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-A 28 years old self-taught GitOps & Backend - Frontend developer from Iran. 
+A 30 years old self-taught GitOps & Backend - Frontend developer from Iran. 
 
+<!--<script>
+	var date1=new date("1993/07/27");
+	var date2=new date("now");
+	document.write(date2-date1);
+</script>-->
 <!--<p align="center">
   <a href="http://blog.akhi.ir">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/personalBlog.svg" alt="Personal" style="vertical-align:top; margin:4px">
